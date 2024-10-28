@@ -1,0 +1,7 @@
+definition\hooks.class
+support\runtest.class
+pageobjects\registroOrangePage.class
+definition\registroOrangeDefinition.class
+support\util.class
+pageobjects\consultaEbayPage.class
+definition\ebayConsultaDefinition.class
